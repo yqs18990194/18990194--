@@ -28,7 +28,9 @@ public class bbs extends AppCompatActivity implements View.OnClickListener,View.
         tv_bbs.setOnLongClickListener(this);
         tv_bbs.setMovementMethod(new ScrollingMovementMethod());
     }
-    private String[] mChatStr={"今天的你还好吗？","我挺好的，你呢。","我发工资了！","我们去吃饭吧","我晚上有事，不去了","去嘛去嘛",};
+
+    private String[] mChatStr={"你吃饭了吗？","今天天气真好啊。","我中奖了！","我们去看电影吧","晚上干什么好呀？",};
+
 
     @Override
     public void onClick(View v) {

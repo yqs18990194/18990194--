@@ -26,7 +26,7 @@
         android:focusable="true"
         android:focusableInTouchMode="true"
         android:singleLine="true"
-        android:text="闫振威18990187   闫振威18990187   闫振威18990187   闫振威18990187"
+        android:text="叶求生18990194   叶求生18990194   叶求生18990194     叶求生18990194  "
         android:textColor="#FF5722"
         android:textSize="17sp"
         app:layout_constraintBottom_toBottomOf="@id/tv_msg"
